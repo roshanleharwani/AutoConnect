@@ -10,15 +10,27 @@ College Hostel Wi-Fi AutoConnect is a simple tool designed to keep you connected
 
 ## Usage
 
-1. **Download**: Download the latest release of the AutoConnect executable file from the [releases page](link_to_releases).
+1. **Download**: You can download the latest release of the AutoConnect executable file directly from GitHub using the following command:
 
-2. **Run**: Double-click the executable file to run it.
+   ```bash
+   git clone https://github.com/your-username/autoconnect.git
+   ```
 
-3. **Enter Credentials**: When prompted, enter your college hostel Wi-Fi credentials (username and password).
+   Replace `your-username` with your GitHub username.
 
-4. **Save Credentials**: Your credentials will be securely saved locally for future use.
+2. **Run**: Navigate to the downloaded directory and run the executable file:
 
-5. **Background Operation**: You can keep the tool running in the background. It will automatically reconnect you if needed.
+   ```bash
+   cd AutoConnect
+   AutoConnect.exe
+   ```
+
+3. **Recommendation**: It will be prefer that you should pin this AutoConnect.exe file to task bar or save it on your Desktop Folder for easy access.
+4. **Enter Credentials**: When prompted, enter your college hostel Wi-Fi credentials (username, password, and hostel name).
+
+5. **Save Credentials**: Your credentials will be securely saved locally for future use.
+
+6. **Background Operation**: You can keep the tool running in the background. It will automatically reconnect you if needed.
 
 ## Security
 
@@ -28,13 +40,9 @@ Your credentials are stored securely on your local machine and are not shared wi
 
 This tool is compatible with Windows operating systems.
 
-## Contribution
-
-Contributions are welcome! Feel free to fork the repository, make changes, and submit a pull request.
-
 ## Issues
 
-If you encounter any issues or have suggestions for improvement, please open an issue on the [GitHub repository](link_to_repository_issues).
+If you encounter any issues or have suggestions for improvement, please open an issue on the [GitHub repository](https://github.com/roshanleharwani/AutoConnect/issues).
 
 ## License
 
