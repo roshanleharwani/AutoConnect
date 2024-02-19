@@ -16,8 +16,6 @@ College Hostel Wi-Fi AutoConnect is a simple tool designed to keep you connected
    git clone https://github.com/roshanleharwani/AutoConnect
    ```
 
-   Replace `your-username` with your GitHub username.
-
 2. **Run**: Navigate to the downloaded directory and run the executable file:
 
    ```bash
@@ -30,7 +28,7 @@ College Hostel Wi-Fi AutoConnect is a simple tool designed to keep you connected
 
 5. **Save Credentials**: Your credentials will be securely saved locally for future use.
 
-6. **Background Operation**: You can keep the tool running in the background. It will automatically reconnect you if needed.
+6. **Key Feature**: You can keep the file running in the background. It will automatically reconnect you if wifi disconnect due to bad condition.
 
 ## Security
 
