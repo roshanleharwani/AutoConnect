@@ -18,19 +18,20 @@ method 1
 git clone https://github.com/roshanleharwani/AutoConnect
 ```
 
-method 2
-
-Download the file from code section
-![alt text](code-address.png)
-![alt text](download.png)
-and unzip it from and save it on your system.
-
 2. **Run**: Navigate to the downloaded directory and run the executable file:
 
    ```bash
    cd AutoConnect
    AutoConnect.exe
    ```
+
+method 2
+
+Download the file from code section
+![alt text](code-address.png)
+
+![alt text](download.png)
+and unzip it from and save it on your system.
 
 3. **Recommendation**: It will be prefer that you should pin this AutoConnect.exe file to task bar or save it on your Desktop Folder for easy access.
 4. **Enter Credentials**: When prompted, enter your college hostel Wi-Fi credentials (username, password, and hostel name).
