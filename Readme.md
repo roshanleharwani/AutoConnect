@@ -13,7 +13,7 @@ College Hostel Wi-Fi AutoConnect is a simple tool designed to keep you connected
 1. **Download**: You can download the latest release of the AutoConnect executable file directly from GitHub using the following command:
 
    ```bash
-   git clone https://github.com/your-username/autoconnect.git
+   git clone https://github.com/roshanleharwani/AutoConnect
    ```
 
    Replace `your-username` with your GitHub username.
