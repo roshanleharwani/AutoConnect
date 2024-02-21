@@ -1,4 +1,4 @@
-            ![alt text](wifi-signal.png)
+![alt text](wifi-signal.png)
 
 # VIT-AP UNIVERSITY Hostel Wi-Fi AutoConnect
 
