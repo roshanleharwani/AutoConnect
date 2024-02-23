@@ -2,7 +2,9 @@
 
 # VIT-AP UNIVERSITY Hostel Wi-Fi AutoConnect
 
-VIT-AP UNIVERSITY Hostel Wi-Fi AutoConnect is a simple tool designed to keep you connected to your college hostel Wi-Fi network effortlessly. It automatically reconnects you if you get disconnected due to poor network connectivity.
+VIT-AP UNIVERSITY Hostel Wi-Fi AutoConnect is a simple tool designed to keep you connected to your college hostel Wi-Fi network with single click.Another benifit of using it that, It automatically reconnects you if you get disconnected due to poor network connectivity or for any other reason.All is to do whenever you switch on your laptop just execute the AutoConnect.exe file and let that file keep running in background.
+
+NOTE: SIGN OUT FROM OTHER DEVICES IF YOU ALREADY LOGGED IN, TO LET THE SCRIPT WORK EFFORTLESSLY !!
 
 ## Features
 
