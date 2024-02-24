@@ -42,7 +42,7 @@ unzip the downloaded file and save it on your system.
 
 5. **Save Credentials**: Your credentials will be securely saved locally for future use.
 
-6. **Key Feature**: You can keep the file running in the background. It will automatically reconnect you if wifi disconnect due to bad condition.
+6. **Key Feature**: You can keep the file running in the background. It will automatically reconnect you if wifi disconnect due to poor network connectivity.
 
 ## Security
 
